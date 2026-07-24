@@ -1,0 +1,7 @@
+gradio
+gymnasium
+numpy
+torch
+matplotlib
+fastapi
+uvicorn[standard]

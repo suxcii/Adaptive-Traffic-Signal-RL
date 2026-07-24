@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+
+# Trained weights are intentionally committed (backend/saved_models/) so the
+# demo works out of the box without retraining. Remove the lines below if you
+# don't want to version large weight files:
+# backend/saved_models/*.pt
+# backend/saved_models/*.pkl
