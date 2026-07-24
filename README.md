@@ -79,6 +79,9 @@ Open the printed URL (usually `http://localhost:5173`). It talks to the backend 
 `http://127.0.0.1:8000` — change `API_BASE` at the top of `src/app/App.tsx` if you run
 the backend elsewhere.
 
+<img width="704" height="704" alt="image" src="https://github.com/user-attachments/assets/b5c183dc-21df-4812-8841-330684481eb9" />
+
+
 ## What's wired up
 
 - **New Episode** — resets the environment, starts fresh
